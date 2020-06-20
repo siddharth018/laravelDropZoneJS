@@ -9,5 +9,5 @@
 
 ## About Laravel Drop zone 
 
-Read More: https://github.com/siddharth018/laravelDropZoneJS.git
+Read More: https://realprogrammer.in/drag-and-drop-file-upload-using-dropzone-in-laravel/
 
